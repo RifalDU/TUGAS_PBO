@@ -1,0 +1,3 @@
+Bagian 3
+
+Kasus: Pembagian dengan angka nol.Analisis: Operasi pembagian oleh nol menghasilkan ArithmeticException. Penanganan exception memungkinkan program tetap berfungsi dan memberikan pesan kesalahan.

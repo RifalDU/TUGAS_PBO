@@ -1,0 +1,3 @@
+Bagian 7
+
+Kasus: Menangani exception umum dengan pesan kustom.Analisis: Program menunjukkan bagaimana exception dapat dipersonalisasi dengan pesan dan memberikan informasi yang mendetail menggunakan berbagai method.

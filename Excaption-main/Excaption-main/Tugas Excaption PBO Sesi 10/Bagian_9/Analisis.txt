@@ -1,0 +1,3 @@
+Bagian 9
+
+Kasus: Validasi input string dan melempar exception jika kosong.Analisis: Menunjukkan pentingnya validasi awal sebelum proses dilakukan. Struktur try-catch-finally menjaga program tetap robust.

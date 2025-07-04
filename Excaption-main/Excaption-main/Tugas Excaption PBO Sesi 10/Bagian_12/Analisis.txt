@@ -1,0 +1,3 @@
+Bagian 12
+
+Kasus: Pembuatan dan penangkapan exception buatan sendiri (MyException).Analisis: Dengan mewarisi Exception, developer bisa membuat exception khusus untuk kondisi tertentu dalam program dan menanganinya dengan lebih spesifik.

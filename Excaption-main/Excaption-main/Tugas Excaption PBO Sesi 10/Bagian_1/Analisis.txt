@@ -1,0 +1,3 @@
+Bagian 1
+
+Kasus: Akses indeks array yang melebihi batas.Analisis: Program akan menimbulkan ArrayIndexOutOfBoundsException. Dengan menambahkan try-catch, error tersebut dapat ditangani sehingga program tidak crash dan menampilkan pesan error yang informatif.

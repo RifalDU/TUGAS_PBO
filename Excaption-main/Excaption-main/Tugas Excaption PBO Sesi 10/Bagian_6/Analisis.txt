@@ -1,0 +1,3 @@
+Bagian 6
+
+Kasus: Melempar NullPointerException secara eksplisit.Analisis: Setelah throw dijalankan, eksekusi langsung berpindah ke blok catch. Ini menegaskan bahwa baris setelah throw tidak akan pernah dieksekusi.

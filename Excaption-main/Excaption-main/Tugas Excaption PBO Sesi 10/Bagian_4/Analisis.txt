@@ -1,0 +1,3 @@
+Bagian 4
+
+Kasus: Kombinasi error aritmatika dan array.Analisis: Urutan pernyataan dalam blok try menentukan exception mana yang terjadi lebih dulu. Java hanya akan mengeksekusi satu blok catch yang sesuai.

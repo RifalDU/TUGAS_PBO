@@ -1,0 +1,3 @@
+Bagian 10
+
+Kasus: Penulisan data ke file dengan RandomAccessFile.Analisis: Operasi I/O rentan terhadap exception. Penanganan exception memastikan program tidak gagal dan memberikan informasi jika terjadi kesalahan saat akses file.

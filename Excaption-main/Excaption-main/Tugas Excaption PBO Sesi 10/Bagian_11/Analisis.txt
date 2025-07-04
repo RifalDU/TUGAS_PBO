@@ -1,0 +1,3 @@
+Bagian 11
+
+Kasus: Membuat class exception sendiri yang extend Throwable.Analisis: Meskipun tidak umum, Java memperbolehkan class exception turunan dari Throwable. Ini memberikan fleksibilitas tinggi dalam pembuatan tipe exception.

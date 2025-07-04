@@ -1,0 +1,3 @@
+Bagian 2
+
+Kasus: Looping array tanpa validasi batas indeks.Analisis: Tanpa pengecekan batas, program mengakses indeks yang tidak valid. Penanganan exception dilakukan dengan mengatur ulang indeks ke nol, sehingga program tetap berjalan tanpa kesalahan fatal.

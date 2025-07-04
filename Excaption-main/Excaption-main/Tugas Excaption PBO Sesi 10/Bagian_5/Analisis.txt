@@ -1,0 +1,3 @@
+Bagian 5
+
+Kasus: Penanganan ArithmeticException dengan metode tambahan.Analisis: getMessage() memberikan informasi ringkas tentang exception, sementara printStackTrace() berguna untuk debugging karena menunjukkan lokasi dan urutan error secara detail.

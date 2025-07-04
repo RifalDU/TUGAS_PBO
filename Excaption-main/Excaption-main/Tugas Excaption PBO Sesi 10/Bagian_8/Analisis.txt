@@ -1,0 +1,3 @@
+Bagian 8
+
+Kasus: Penggunaan throws untuk method yang berpotensi error.Analisis: Pendekatan pertama mengandalkan deklarasi throws IOException, sedangkan pendekatan kedua menggunakan try-catch yang lebih aman dan fleksibel. Blok finally menjamin eksekusi kode tertentu tetap dijalankan.
