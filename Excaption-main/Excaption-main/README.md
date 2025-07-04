@@ -94,8 +94,8 @@ try {
 
 ## 👤 Kontributor
 
-* **Nama:** M Ranggis Refaldi
-* **NIM:** 20230040197
+* **Nama:** Rifal Dhiya Ulhaq
+* **NIM:** 20230040307
 * **Kelas:** TI23E
 * **Mata Kuliah:** Pemrograman Berorientasi Objek (PBO)
 
@@ -107,6 +107,3 @@ Proyek ini dibuat untuk keperluan akademik dan praktikum. Bebas digunakan kembal
 
 ---
 
-## 🌟 Showcase
-
-Jika kamu menyukai proyek ini, bantu dengan ⭐ star dan fork untuk eksplorasi lebih lanjut!
